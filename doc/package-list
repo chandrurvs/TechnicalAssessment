@@ -1,0 +1,9 @@
+com.vehicleservices.spring.config
+com.vehicleservices.spring.controller
+com.vehicleservices.spring.dao
+com.vehicleservices.spring.exception
+com.vehicleservices.spring.helper
+com.vehicleservices.spring.logger
+com.vehicleservices.spring.model
+com.vehicleservices.spring.service
+com.vehicleservices.spring.validation
